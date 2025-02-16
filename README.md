@@ -24,9 +24,11 @@ I am a software engineer on a mission to become a proficient AI Engineer as well
 
 My journey is structured in phases:
 1. **Phase 1: Foundations (Completed)**
-   - Mathematics for AI, Python programming, data handling: [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science).
+   - Mathematics for AI, Python programming, data handling:
+        - [x] [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science).
 2. **Phase 2: Core Machine Learning Concepts (Current Focus)**
-   - Enrolled in courses such as *[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)*.
+   - Enrolled in courses such as:
+        - [ ] *[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)*.
    - Developing introductory ML projects.
 3. **Phase 3: Deep Learning & Advanced Topics**
    - Diving into neural networks, CNNs, RNNs, transformers, and advanced architectures.
