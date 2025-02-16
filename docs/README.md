@@ -1,0 +1,1 @@
+This can be used this for extended documentation, guides, or even drafts for blog posts about my learning journey.

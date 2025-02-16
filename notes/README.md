@@ -1,0 +1,1 @@
+It stores my course notes, research summaries, and reflections. I will consider organizing them by topic or by course module (e.g., “ML Fundamentals”, “Deep Learning”, etc.).

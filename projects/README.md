@@ -1,0 +1,1 @@
+For each project there could be folder that can have its own README, code, notebooks, and documentation.
