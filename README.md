@@ -75,4 +75,4 @@ Feedback, suggestions, and collaborations are welcome:
 
 Feel free to reach out if you have questions or want to collaborate:
 - **Email:** [raminmammadzadaiu@gmail.com](mailto:raminmammadzadaiu@gmail.com)
-- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/raminmammadzada/)]
+- **LinkedIn:** [Ramin Mammadzada](https://www.linkedin.com/in/raminmammadzada/)
